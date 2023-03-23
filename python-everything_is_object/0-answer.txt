@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+
+my_var = 42
+print(type(my_var))
