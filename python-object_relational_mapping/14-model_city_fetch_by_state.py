@@ -19,4 +19,3 @@ if __name__ == "__main__":
     for st, cy in res:
         print("{}: ({:d}) {}".format(st.name, cy.id, cy.name))
     session.close()
-Footer
